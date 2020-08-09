@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAPLE_INSURANCE_API", "MAPLE_INSURANCE_API\MAPLE_INSURANCE_API.csproj", "{225D48A1-B2C2-443F-873F-14BFA0DF8725}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{225D48A1-B2C2-443F-873F-14BFA0DF8725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{225D48A1-B2C2-443F-873F-14BFA0DF8725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{225D48A1-B2C2-443F-873F-14BFA0DF8725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{225D48A1-B2C2-443F-873F-14BFA0DF8725}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADB4B08E-2FD4-4E36-BC67-2FA4D3FF8F0B}
+	EndGlobalSection
+EndGlobal
